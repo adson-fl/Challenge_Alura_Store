@@ -85,7 +85,7 @@ Para rodar este Projeto em sua máquina, siga os seguintes passos :
 ### 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/usuario/Challenge-Alura-Store.git corrigir
+git clone https://github.com/usuario/Challenge-Alura-Store.git
 ```
 ### 2. **Instale as dependências**
 
